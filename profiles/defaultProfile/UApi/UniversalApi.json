@@ -1,0 +1,9 @@
+{
+    "ConfigVersion": "1",
+    "ServerURL": "https://127.0.0.1/",
+    "ServerID": "DefaultServer",
+    "ServerAuth": "O.cj7UDoYKZzJcrxtNUIq8GryrCtcH0yYOycO6tOs4S7LPY4",
+    "QnAEnabled": 0,
+    "EnableBuiltinLogging": 0,
+    "PromptDiscordOnConnect": 0
+}

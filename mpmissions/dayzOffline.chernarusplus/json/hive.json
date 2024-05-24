@@ -1,0 +1,11 @@
+{
+  "Objects": [
+    {
+      "name": "StaticObj_Misc_GasMeterCabinet",
+      "pos": [68.4381, 150.947, 2818.12],
+      "ypr": [0, 0, 0],
+      "scale": 1.0,
+      "enableCEPersistency": 0
+    }
+  ]
+}
